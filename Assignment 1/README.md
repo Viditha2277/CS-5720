@@ -1,10 +1,10 @@
-# Student Details
+## Student Details
 
 Student Name: Viditha Avuthu
 <br/>
 Student ID: 700757653
 
-# Description
+## Description
 
 
 
