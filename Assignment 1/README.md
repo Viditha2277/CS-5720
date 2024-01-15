@@ -1,7 +1,8 @@
 # Student Details
 
-Viditha Avuthu
-700757653
+Student Name: Viditha Avuthu
+<br/>
+Student ID: 700757653
 
 # Description
 
