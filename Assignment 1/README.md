@@ -1,8 +1,8 @@
 ## Student Details
 
-Student Name: Viditha Avuthu
+Student Name: <b>Viditha Avuthu</b>
 <br/>
-Student ID: 700757653
+Student ID: <b>700757653</b>
 
 ## Description
 
