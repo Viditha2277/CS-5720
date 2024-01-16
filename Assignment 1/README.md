@@ -16,7 +16,7 @@ Program 1.2: The program takes two numbers as input from the user and perform at
 1. Two integers are taken from the user.
 2. Five arithmetic operations are performed on the numbers taken from the user.
 3. The output for the operations is printed on the console.
-4. 4. str(string) method converts any data type into string data type which is further concatenated with other strings in the print function
+4. str(string) method converts any data type into string data type which is further concatenated with other strings in the print function
    <br/>
 
 Program 2: The program accepts a sentence from the user and replace each occurrence of ‘python’ with ‘pythons’.
