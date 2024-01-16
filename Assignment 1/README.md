@@ -33,5 +33,5 @@ Program 3: The program uses the if and elif statement conditions to print the le
    <br/>
 
 
-To view the video explanation, [Click here](https://drive.google.com/file/d/1mDIUbTP3EoFNmwkX7MupuF8lD9KBKtnx/view?usp=drive_link)https://drive.google.com/file/d/1mDIUbTP3EoFNmwkX7MupuF8lD9KBKtnx/view?usp=drive_link).
+To view the video explanation, [Click here] (https://drive.google.com/file/d/1mDIUbTP3EoFNmwkX7MupuF8lD9KBKtnx/view?usp=drive_link)https://drive.google.com/file/d/1mDIUbTP3EoFNmwkX7MupuF8lD9KBKtnx/view?usp=drive_link).
 
