@@ -27,4 +27,4 @@ Program 3: The program reads heights (inches.) of customers into a list and conv
    <br/>
 
 
-To view the video explanation, [Click here](https://drive.google.com/file/d/1mDIUbTP3EoFNmwkX7MupuF8lD9KBKtnx/view?usp=drive_link).
+To view the video explanation, [Click here](https://drive.google.com/file/d/1bwzlIq23LHALAlVfgsBGr02xDkOUz8k7/view?usp=drive_link)
