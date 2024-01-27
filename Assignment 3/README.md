@@ -22,4 +22,4 @@ Program 2: To create a random vector of size 20 that contains only floating-poin
    <br/>
 
 
-To view the video explanation, [Click here](https://drive.google.com/file/d/1bwzlIq23LHALAlVfgsBGr02xDkOUz8k7/view?usp=drive_link)
+To view the video explanation, [Click here](https://drive.google.com/file/d/1CoMXHAkyAi1QbNjWX1tM3ReNDGXJTmZv/view?usp=sharing)
