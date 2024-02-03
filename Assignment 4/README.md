@@ -30,4 +30,4 @@ Program 2: To demonstrate Linear Regression on the Salary_Data.csv file.
    <br/>
 
 
-To view the video explanation, [Click here](https://drive.google.com/file/d/1CoMXHAkyAi1QbNjWX1tM3ReNDGXJTmZv/view?usp=sharing)
+To view the video explanation, [Click here](https://drive.google.com/file/d/1Sy8oPiMb2exjbPfj5k8JK8NR-imYE3k6/view?usp=drive_link)
