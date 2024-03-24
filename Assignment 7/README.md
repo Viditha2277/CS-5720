@@ -20,4 +20,4 @@ Program 1: Image classification with CNN.
    <br/>
 
 
-To view the video explanation, [Click here](https://drive.google.com/file/d/1HgVPXbSd7gCGSkq2Q-EIFBIjNOcAClam/view?usp=sharing)
+To view the video explanation, [Click here](https://drive.google.com/file/d/1vQIxdj65uyrxctZo1RNGWXuicF3ivO67/view?usp=drive_link)
