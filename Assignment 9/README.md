@@ -16,4 +16,4 @@ Program 1: Basics of LSTM, Types of RNN, Sentiment Analysis on the Twitter data 
    <br/>
 
 
-To view the video explanation, [Click here]()
+To view the video explanation, [Click here](https://drive.google.com/file/d/1opdl5jfalMlzZX-KG10CexjVt7qnil0V/view?usp=sharing)
